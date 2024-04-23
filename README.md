@@ -1,4 +1,4 @@
-# PRODIGY_WD_05
+# Anywheather - See weather of anywhere, anytime!
 An intuitive and vibrant weather app made with HTML,CSS and JavaScript with API integration from OpenWeatherMap as a part of my internship at Prodigy InfoTech<br><br>
 Visit <a href="https://anywheather.vercel.app/">here</a>
 
